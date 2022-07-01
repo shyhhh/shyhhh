@@ -25,5 +25,5 @@
 
 <p align="left">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shyhhh&repo=Web-notes&theme=radical)](https://github.com/shyhhh/Web-notes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shyhhh&repo=Web-notes&theme=synthwave)](https://github.com/shyhhh/Web-notes)
 <p/>
