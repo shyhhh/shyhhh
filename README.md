@@ -20,3 +20,10 @@
 <p align="left">
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyhhh&langs_count=10&theme=synthwave&layout=compact" alt="nicejade :: Top Langs" />
 </p>
+
+## 置顶
+
+<p align="left">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shyhhh&repo=Web-notes&theme=radical)](https://github.com/shyhhh/Web-notes)
+<p/>
