@@ -16,5 +16,7 @@
 
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=shyhhh&show_icons=true&theme=synthwave" alt="nicejade :: Profile Stats" />
+</p>
+<p align="left">
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyhhh&langs_count=10&theme=synthwave&layout=compact" alt="nicejade :: Top Langs" />
 </p>
